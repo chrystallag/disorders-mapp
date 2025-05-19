@@ -21,12 +21,12 @@ Source: https://vizhub.healthdata.org/gbd-results/
 To run the app, the following R packages are required:
 
 
-shiny
-shinydashboard
-tidyverse
-leaflet
-sf
-rnaturalearth
+shiny, 
+shinydashboard, 
+tidyverse, 
+leaflet, 
+sf, 
+rnaturalearth, 
 rnaturalearthdata
 
 ##Install any missing packages using install.packages("package_name")
